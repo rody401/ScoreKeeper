@@ -1,0 +1,19 @@
+html {
+    background-color: skyblue;
+}
+
+.card {
+    margin-top: 16rem;
+    width: 100%;
+    height: auto;
+}
+
+.card .card-header {
+    background-color: steelblue;
+}
+
+.card-content .subtitle {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
